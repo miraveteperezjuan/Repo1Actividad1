@@ -1,6 +1,6 @@
-package testing;
+package juan;
 
-public class ImprimirNombre {
+public class juan {
 
 	public static void main(String[] args) {
 		
